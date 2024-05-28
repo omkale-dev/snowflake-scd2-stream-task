@@ -1,0 +1,11 @@
+product_id,product_name,category,is_active
+101,ProductA,Electronics,1
+102,ProductB,Home Appliances,1
+103,ProductC,Clothing,1
+104,ProductD,Books,1
+105,ProductE,Beauty,1
+106,ProductF,Toys,1
+107,ProductG,Tools,1
+108,ProductH,Electronics,1
+109,ProductI,Home Decor,1
+110,ProductJ,Sports Equipment,1

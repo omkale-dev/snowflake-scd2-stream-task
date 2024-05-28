@@ -1,0 +1,11 @@
+customer_id,customer_name,state,is_active
+1001,CustomerA,California,1
+1002,CustomerB,New York,1
+1003,CustomerC,Texas,1
+1004,CustomerD,Florida,1
+1005,CustomerE,Ohio,1
+1006,CustomerF,California,1
+1007,CustomerG,New York,1
+1008,CustomerH,Texas,1
+1009,CustomerI,Florida,1
+1010,CustomerJ,Ohio,1

@@ -1,0 +1,8 @@
+product_id,product_name,category,is_active
+101,UpdatedProductA,Electronics,0
+102,ProductB,Home Appliances,1
+103,UpdatedProductC,Clothing,0
+104,ProductD,Books,1
+105,NewProductE,Grocery,0
+111,NewProductK,Outdoor,1
+112,NewProductL,Health,0
